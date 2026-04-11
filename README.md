@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asthadewangan82&label=Profile%20views&color=0e75b6&style=flat" alt="asthadewangan82" /> </p>
 
-- 🌱 I’m currently learning **backend web development**
+- 🌱 I’m currently learning **AIML DEV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/asthadewangan82/asthadewangan82.git](https://github.com/asthadewangan82/asthadewangan82.git)
 
