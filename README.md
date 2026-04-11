@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astha Dewangan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AIML developer from India</h3>
 
 <img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
      
