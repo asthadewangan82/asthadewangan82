@@ -105,4 +105,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthadewangan82&show_icons=true&locale=en" alt="asthadewangan82" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthadewangan82&" alt="asthadewangan82" /></p> isme jo languagge h usko update kr ke jo jo AIML me jaruri hota hai usko dal dena 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthadewangan82&" alt="asthadewangan82" /></p> 
